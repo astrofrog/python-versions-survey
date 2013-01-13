@@ -1,0 +1,40 @@
+2.4.3 : 2.4.x
+1.7.0b2 : dev
+1.7.0.dev-3cb783e : dev
+1.8.0.dev-fe6f42c : dev
+1.3 : 1.3.x
+1.3.0 : 1.3.x
+1.8 : dev
+2.0.0.dev-35952aa : dev
+github - always the latest code : dev
+1.6.0.dev-b28b115 : 1.6.x
+1.7.0 : dev
+2.0/dev : dev
+1.2.1 : 1.2.x
+0.12 : dev
+Most recent dev build : dev
+0.12.0.dev-0930611 : dev
+0.11.0.dev-0496569 : 0.11.x
+github : dev
+0.10.0.dev : 0.10.x
+0.6.0 : 0.6.x
+easy_install : Installed from Source
+pip : Installed from Source
+Installed department-wide by network admin : Admins
+admin did it : Admins
+systems manager did it for me : Admins
+installed by sysadmin form source : Admins
+installation maintained by computer group (I guess it's installed from source) : Admins
+"Network install by admins; bundled as part of something called ""csoft"" or ""epd""... not sure which." : Admins
+with Advanced Packaging Tool (apt-get) : Linux Package Manager
+my admin did it : Admins
+admin did it : Admins
+IT Dept. (not my choice) : Admins
+scisoft : SciSoft
+I'd swear it came with SciSoft... : SciSoft
+STSCI PYTHON : STScI Python
+stsci_python : STScI Python
+stsci_python and pip : STScI Python
+STSCI Python : STScI Python
+Space Telescope : STScI Python
+Ubuntu Synaptic Package Manager : Linux Package Manager
