@@ -1,5 +1,6 @@
 from __future__ import print_function
 
+import os
 from collections import OrderedDict
 
 import numpy as np
@@ -7,7 +8,7 @@ from matplotlib import pyplot as plt
 
 plt.rc('font', family='serif')
 
-DATA = np.loadtxt('versions-astro.csv', delimiter=',', dtype='|S200')
+DATA = np.loadtxt('data/versions-astro.csv', delimiter=',', dtype='|S200')
 
 YELLOW = (255. / 255., 227. / 255., 84. / 255.)
 BLUE = (55. / 255., 117. / 255., 168. / 255.)
@@ -61,7 +62,7 @@ def make_plot(index, options, plot_name, labels=None):
 
     ax.set_xlabel("% of respondents")
 
-    fig.savefig(plot_name + '.png', bbox_inches='tight')
+    fig.savefig(os.path.join('plots', plot_name + '.png'), bbox_inches='tight')
 
 # Python versions
 options = ['2.4.x', '2.5.x', '2.6.x',

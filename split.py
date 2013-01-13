@@ -1,11 +1,11 @@
 # Open file
-f = open('versions.csv', 'r')
+f = open('data/versions.csv', 'r')
 
 # Read header line
 header = f.readline()
 
-f_astro = open('versions-astro.csv', 'w')
-f_other = open('versions-other.csv', 'w')
+f_astro = open('data/versions-astro.csv', 'w')
+f_other = open('data/versions-other.csv', 'w')
 
 # Loop through lines and extract astronomers from other users
 for line in f:
