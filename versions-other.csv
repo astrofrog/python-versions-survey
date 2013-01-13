@@ -1,0 +1,64 @@
+11/17/2012 12:05:54,2.7.x,1.6.x,0.10.x,Installed from Source,
+11/17/2012 12:43:31,2.7.x,1.6.x,None,Installed from Source,Bioinformatics
+11/17/2012 12:54:50,2.7.x,1.6.x,0.11.x,pip,biology
+11/17/2012 13:00:56,2.7.x,1.6.x,0.11.x,Enthought Python Distribution,Fluid Mechanics
+11/17/2012 14:03:20,2.7.x,1.6.x,None,Official binary installers (e.g. MacOS X DMG or official Windows installers),
+11/17/2012 14:07:14,2.7.x,1.6.x,0.9.x,Linux Package Manager,Genomics
+11/17/2012 14:41:51,2.6.x,1.5.x,0.9.x,provided by CERN central services,particle physics
+11/17/2012 14:46:51,2.7.x,1.6.x,0.10.x,Installed from Source,
+11/17/2012 15:00:56,2.7.x,1.5.x,0.9.x,Enthought Python Distribution,medical
+11/17/2012 15:06:31,2.7.x,1.6.x,0.10.x,Enthought Python Distribution,teaching
+11/17/2012 15:38:40,2.7.x,1.6.x,None,Official binary installers (e.g. MacOS X DMG or official Windows installers),Electrical Engineering
+11/17/2012 16:09:38,2.7.x,1.6.x,0.11.x,pip,Mathematics
+11/17/2012 16:41:48,2.7.x,1.7.0.dev-3cb783e,0.10.x,MacPorts,Bioinformatics / Ecology
+11/17/2012 17:01:18,2.7.x,1.6.x,0.10.x,Linux Package Manager,Economics
+11/17/2012 17:03:27,2.7.x,1.6.x,None,Installed from Source,medicine and biology
+11/17/2012 17:06:49,2.7.x,1.6.x,0.9.x,Linux Package Manager,Plant Genomics
+11/17/2012 17:08:26,2.7.x,1.6.x,None,Linux Package Manager,Biology
+11/17/2012 17:34:02,2.7.x,1.6.x,0.10.x,Enthought Python Distribution,Numerical analysis
+11/17/2012 18:11:10,2.7.x,1.6.x,0.11.x,Enthought Python Distribution,Computer
+11/17/2012 18:45:44,2.7.x,1.6.x,None,ActivePython,Plant molecular biology
+11/17/2012 18:49:52,2.7.x,1.6.x,0.11.x,Linux Package Manager,Maths
+11/17/2012 19:13:54,2.7.x,1.6.x,0.11.x,Homebrew,Biology
+11/17/2012 19:15:41,2.7.x,1.6.x,0.10.x,Linux Package Manager,Quantum information
+11/17/2012 19:27:02,2.7.x,1.5.x,0.10.x,Installed from Source,
+11/17/2012 20:37:48,2.7.x,1.6.x,0.10.x,Enthought Python Distribution,"astronomy, biology"
+11/17/2012 21:11:07,2.6.x,1.4.x,0.7.x,Official binary installers (e.g. MacOS X DMG or official Windows installers),chemistry
+11/17/2012 21:54:18,2.7.x,1.6.x,0.11.x,"Python x,y",
+11/18/2012 0:38:29,2.6.x,1.6.x,0.11.x,Official binary installers (e.g. MacOS X DMG or official Windows installers),Physics
+11/18/2012 3:58:30,2.7.x,1.6.x,0.7.x,Enthought Python Distribution,Ecosystem science
+11/18/2012 12:19:06,3.3.x,1.7.0b2,0.11.x,Linux Package Manager,aerospace engineering (student)
+11/18/2012 17:21:46,2.7.x,1.6.x,0.9.x,Linux Package Manager,Statistics and systems biology
+11/19/2012 12:45:42,2.7.x,1.6.x,0.10.x,Installed from Source,
+11/19/2012 13:24:43,2.7.x,1.6.x,0.11.x,MacPorts,
+11/19/2012 13:31:19,2.7.x,1.6.x,0.10.x,Official binary installers (e.g. MacOS X DMG or official Windows installers),"Astronomy, External galaxies"
+11/19/2012 14:41:04,2.7.x,1.6.x,0.10.x,Enthought Python Distribution,
+11/19/2012 15:09:36,2.7.x,1.6.x,0.10.x,Linux Package Manager,
+11/19/2012 15:13:52,2.7.x,1.4.x,0.7.x,MacPorts,
+11/19/2012 15:16:52,2.7.x,1.6.x,0.9.x,Linux Package Manager,
+11/19/2012 15:43:41,2.7.x,1.6.x,0.11.x,Linux Package Manager,
+11/19/2012 15:55:34,2.7.x,,0.7.x,Enthought Python Distribution,
+11/19/2012 15:56:57,2.7.x,1.8.0.dev-9597b1f,0.12.0.dev-ddd617d,scipy superpack,
+11/19/2012 16:08:31,2.7.x,None,None,Don't know,
+11/19/2012 16:17:32,2.7.x,1.6.x,0.9.x,Linux Package Manager,Computational Mathematics
+11/19/2012 16:30:07,2.7.x,1.6.x,0.11.x,Enthought Python Distribution,physics
+11/19/2012 17:01:23,2.7.x,1.6.x,0.9.x,fink,
+11/19/2012 18:01:02,2.7.x,1.6.x,0.10.x,Enthought Python Distribution,
+11/19/2012 18:04:13,2.7.x,1.6.x,0.11.x,Linux Package Manager,
+11/19/2012 18:46:48,2.7.x,1.6.x,0.10.x,Official binary installers (e.g. MacOS X DMG or official Windows installers),
+11/19/2012 22:13:29,2.7.x,1.6.x,0.10.x,Linux Package Manager,Physics
+11/19/2012 23:36:07,2.7.x,1.6.x,0.11.x,Enthought Python Distribution,
+11/20/2012 1:26:00,2.7.x,1.6.x,0.10.x,Linux Package Manager,
+11/20/2012 2:06:43,2.7.x,1.6.x,0.7.x,Enthought Python Distribution,
+11/20/2012 11:06:46,2.7.x,1.6.x,0.9.x,"python x,y (win); apt-get (ubuntu )",statistics; games
+11/20/2012 13:21:16,2.7.x,1.6.x,0.10.x,Linux Package Manager,Optical Science
+11/21/2012 12:37:07,2.7.x,,,Don't know,
+11/22/2012 20:31:31,2.7.x,1.6.x,0.11.x,Enthought Python Distribution,data science
+11/22/2012 20:39:13,2.7.x,1.6.x,0.10.x,Linux Package Manager,Computational Biology
+11/23/2012 10:24:49,2.7.x,1.6.x,0.11.x,AnacondaCE or WinPython,data analysis (physics)
+11/23/2012 10:40:38,2.7.x,None,None,Installed from Source,Experimental Psychology
+11/25/2012 22:51:09,2.6.x,1.4.x,0.8.x,Enthought Python Distribution,"astrophysics (GRMHD sims, mm-wavelength observations)"
+11/27/2012 10:35:00,2.7.x,1.6.x,0.10.x,Linux Package Manager,bioinformatics
+11/28/2012 16:50:55,2.7.x,1.6.x,0.10.x,Linux Package Manager,
+11/28/2012 22:05:48,2.7.x,1.6.x,0.10.x,Enthought Python Distribution,
+12/2/2012 9:38:04,2.7.x,1.6.x,0.11.x,Enthought Python Distribution,
