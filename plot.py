@@ -7,6 +7,8 @@ import numpy as np
 from matplotlib import pyplot as plt
 
 plt.rc('font', family='serif')
+plt.rc('xtick', labelsize='small')
+plt.rc('ytick', labelsize='small')
 
 DATA = np.loadtxt('data/versions-astro.csv', delimiter=',', dtype='|S200')
 
