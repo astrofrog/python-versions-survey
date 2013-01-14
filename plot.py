@@ -62,7 +62,7 @@ def make_plot(index, options, plot_name, labels=None):
     ax.patch.set_alpha(0.1)
     ax.set_ylim(ind[-1] + width * 1.5, ind[0] - width * 0.5)
 
-    ax.set_xlabel("% of respondents")
+    ax.set_xlabel("% of users")
 
     fig.savefig(os.path.join('plots', plot_name + '.png'), bbox_inches='tight')
 
